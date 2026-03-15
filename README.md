@@ -1,15 +1,19 @@
-# DocVault 🔐
+# DocVaultYape 🔐
 
 Aplicación Android de gestión de documentos confidenciales con protección biométrica, cifrado AES-256 y marca de agua con geolocalización.
 
 
 ## 📱 Capturas de pantalla
 
+<p align="center">
+  <img src="assets/img_2.png" width="250" alt="Pantalla principal" />
+  &nbsp;&nbsp;
+  <img src="assets/img_1.png" width="250" alt="Detalle de documento" />
+</p>
 
 
-<img src="assets/img.png" width="250" alt="Pantalla principal" />
 
-
+---
 
 ## 📐 Arquitectura: MVI + Clean Architecture
 
